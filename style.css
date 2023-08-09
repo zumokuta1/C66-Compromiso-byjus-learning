@@ -1,0 +1,42 @@
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#intro{
+    background-color: #b6dcee;
+}
+
+#origami1{
+background-color: #f08080;
+}
+
+#origami2{
+    background-color: #eed1b6;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+    border-radius: 2rem;
+}
+
+html {
+    text-align: center;
+    margin: 0rem;
+    padding: 0rem;
+  }
+  img {
+    border-radius: 0.2rem;
+    border: #000 1px;
+  }
+  iframe {
+    border-radius: 0.2rem;
+  }
+  #intro {
+    border-radius: 0.2rem;
+    color: #fff;
+  }
